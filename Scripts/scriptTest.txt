@@ -1,0 +1,9 @@
+Hello! This is the Script Reader
+This is a test file for the Butlerfly's script command
+Don't forget to breath!
+cuz breathing makes it easier to relax
+you want to relax
+lean back and relax
+that makes it nice and easy to breath
+doesn't it?
+end script
